@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/openfoodfacts/openfoodfacts-dart/compare/v2.4.0...v2.5.0) (2023-04-01)
+
+
+### Features
+
+* 719 - Suggestion Manager with suggestions for the latest input ([#720](https://github.com/openfoodfacts/openfoodfacts-dart/issues/720)) ([5a31a09](https://github.com/openfoodfacts/openfoodfacts-dart/commit/5a31a09e43d9291a071cc51d4bf885f6655e76a9))
+
 ## [2.4.0](https://github.com/openfoodfacts/openfoodfacts-dart/compare/v2.3.1...v2.4.0) (2023-03-08)
 
 
